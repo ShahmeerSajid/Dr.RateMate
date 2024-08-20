@@ -1,6 +1,6 @@
 ## Dr.Rate Mate (What does it do?)
 
-Dr. RateMate is your clever sidekick in the often confusing world of course and professor selection. Built on a robust machine learning model, it’s trained on over 850 authentic reviews from students, Rate My Prof, Reddit, and even a few random comments we picked up along the way. This AI-driven tool dives deep into the chaos to deliver ratings that you can actually rely on—no more guesswork, just straightforward insights.
+"Dr. RateMate" is your clever sidekick in the often confusing world of course and professor selection. Built on a robust machine learning model, it’s trained on over 850 authentic reviews from students, Rate My Prof, Reddit, and even a few random comments we picked up along the way. This AI-driven tool dives deep into the chaos to deliver ratings that you can actually rely on—no more guesswork, just straightforward insights.
 
 Here’s how it works: You feed Dr. RateMate a review, and it gets to work, analyzing every detail to give you both course and professor ratings on a scale of -1 to 5. But there’s a catch—if you forget to mention the course or the professor, you’ll be hit with a -1 for whichever detail is missing. It’s like the AI’s way of saying, “Come on, give me something to work with!”
 
@@ -12,7 +12,7 @@ This model isn’t just about crunching numbers—it’s about making your acade
 After setting up your Python environment (latest Python version is recommended), follow these steps to get everything up and running smoothly:
 
 - Clone the repository: **git clone https://github.com/ShahmeerSajid/Dr.RateMate.git**
-- Navigate to the clond repository: **cd StockShockWaveWizard**
+- Navigate to the cloned repository: **cd StockShockWaveWizard**
 - Install Dependencies:
   On Terminal (for Mac) or Powershell (for windows), run the commannd **pip install -r requirements.txt**
 - Create Your Own config.py:
