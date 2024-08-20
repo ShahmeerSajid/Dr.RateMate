@@ -2,3 +2,5 @@ stacked_clf_Course filter=lfs diff=lfs merge=lfs -text
 Rating.pkl filter=lfs diff=lfs merge=lfs -text
 stacked_clf_Course[[:space:]]Rating.pkl filter=lfs diff=lfs merge=lfs -text
 stacked_clf_Prof[[:space:]]Rating.pkl filter=lfs diff=lfs merge=lfs -text
+Stacked_clf_Course[[:space:]]Rating.pkl filter=lfs diff=lfs merge=lfs -text
+Stacked_clf_Prof[[:space:]]Rating.pkl filter=lfs diff=lfs merge=lfs -text
