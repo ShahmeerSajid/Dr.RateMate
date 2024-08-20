@@ -1,4 +1,6 @@
-## Dr.Rate Mate
+## Dr.Rate Mate (What does it do?)
+
+
 
 
 
@@ -19,7 +21,7 @@ After setting up your Python environment (latest Python version is recommended),
   These files contain the trained algorithms and must be present in the project directory for the code to run successfully. By using these files, you won't need to retrain the models, which saves significant time and computational resources.
 - With all dependencies installed, and your 'config.py' in place, (on Terminal --> Mac or Powershell --> Windows), you can execute the project by : **streamlit run mainNLPModel.py**
 
-** This setup guarantees your project runs smoothly without making you retrain those stubborn models—because who has time for that? Plus, your top-secret API keys will stay as secure as a cat guarding its favorite spot. Just double-check you've got all the files in place before you hit "go"—nobody wants a missing piece to the puzzle! 
-Then, sit back, relax, and with these steps, you'll have the website up and running in no time, delivering professor and course ratings straight from your reviews like a pro! **
+**This setup guarantees your project runs smoothly without making you retrain those stubborn models—because who has time for that? Plus, your top-secret API keys will stay as secure as a cat guarding its favorite spot. Just double-check you've got all the files in place before you hit "go"—nobody wants a missing piece to the puzzle! 
+Then, sit back, relax, and with these steps, you'll have the website up and running in no time, delivering professor and course ratings straight from your reviews like a pro!**
 
   
