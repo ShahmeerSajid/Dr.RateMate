@@ -12,7 +12,7 @@ This model isn’t just about crunching numbers—it’s about making your acade
 After setting up your Python environment (latest Python version is recommended), follow these steps to get everything up and running smoothly:
 
 - Clone the repository: **git clone https://github.com/ShahmeerSajid/Dr.RateMate.git**
-- Navigate to the cloned repository: **cd StockShockWaveWizard**
+- Navigate to the cloned repository: **cd Dr.RateMate**
 - Install Dependencies:
   On Terminal (for Mac) or Powershell (for windows), run the commannd **pip install -r requirements.txt**
 - Create Your Own config.py:
