@@ -6,7 +6,7 @@ Here’s how it works: You feed Dr. RateMate a review, and it gets to work, anal
 
 This model isn’t just about crunching numbers—it’s about making your academic life easier. Dr. RateMate turns a jumble of opinions into clear, data-driven ratings, so you can make informed decisions with confidence. Whether you’re hunting for the perfect class or trying to avoid that professor with the brutal exams, Dr. RateMate is your go-to guide. Think of it as your personal course and professor detective—minus the magnifying glass, but with all the smarts and none of the drama. So, dive in, and let Dr. RateMate help you ace the art of course selection, one review at a time!
 
-**--->** For a detailed explanation of Dr.RateMate, please check this out: https://devpost.com/software/dr-ratemate
+**--->** Want the full scoop on Dr. RateMate? Check this out—you won’t regret it: https://devpost.com/software/dr-ratemate
 
 ## How to run the project?
 After setting up your Python environment (latest Python version is recommended), follow these steps to get everything up and running smoothly:
