@@ -1,0 +1,34 @@
+{
+
+    "0": [
+        "terrible", "awful", "horrible", "incompetent", "unprepared", "disorganized", 
+        "unhelpful", "boring", "confusing", "ineffective", "pathetic", "miserable", "worse-than-hell",
+        "worst experince", "extremey bad", "cruel"
+    ],
+    "1": [
+        "poor", "bad", "disappointing", "unsatisfactory", "subpar", "uninspiring", 
+        "ineffective", "unorganized", "inconsistent", "unclear", "frustrating"
+    ],
+    "2": [
+        "below average", "mediocre", "lacking", "underwhelming", "not great", 
+        "ordinary", "passable", "tolerable", "so-so", "average", "unremarkable", 
+        "uninspired", "lackluster", "moderate"
+    ],
+    "3": [
+        "average", "fair", "adequate", "acceptable", "passable", "moderate", 
+        "sufficient", "just decent", "competent", "satisfactory", "ordinary", 
+        "reasonable", "moderately good"
+    ],
+    "4": [
+        "good", "excellent", "superb", "decent", "competent", "fantastic",
+        "helpful", "engaging",  "knowledgeable", "amazing",
+        "capable", "proficient", "effective"
+    ],
+    "5": [
+        "excellent", "outstanding", "exceptional", "superb", "brilliant", 
+        "extraordinary", "remarkable", "phenomenal", "amazing", "fantastic", 
+        "incredible", "inspirational", "knowledgeable", "engaging", "clear", 
+        "organized", "motivating", "top-notch", "perfect"
+    ]
+  }
+  

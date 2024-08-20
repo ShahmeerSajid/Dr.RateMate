@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+catboost
+lightgbm
+nltk
+vaderSentiment
+json
+pickle
+keras
+joblib
+torch
