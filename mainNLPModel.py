@@ -346,7 +346,7 @@ def generate_extended_review_paragraph(prof_rating, course_rating):
 
     # (3) Use OPENAI API for elaborated generation of the prompt_to_feed_in_API.
     
-    from config import Shahmeer_OpenAI_API_Key   # Import the API key from config.py
+    from config import Shahmeer_OpenAI_API_Key   # Importing my own API key from config.py --> config.py has been for safety purposes.
     openai.api_key = Shahmeer_OpenAI_API_Key  # Setting up my own API Key for OpenAI.
 
     # Optionally, list all available models, using the following code:
